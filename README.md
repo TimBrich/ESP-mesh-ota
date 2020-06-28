@@ -1,6 +1,7 @@
 # ESP-mesh-ota
 esp connect to mesh network and can autoupdate from enternet.
 * board - esp32
+* ide - Platformio
 * framework - esp-idf
 * led module - ws2812B
 ## Tasks
